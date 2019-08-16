@@ -1,1 +1,1 @@
-## JAVA MADNESS REPO
+# ![Java Mania Repo](javamaniabanner.jpg)
