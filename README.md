@@ -2,4 +2,5 @@
 
 # Java Projects
 * FutureValueApp  - Investment Value Calculator
-	- [Code Repo](https://bitbucket.org/itsjustnae/futurevalueapp/src/master/) - Bitbucket 
+	- [Compiled View] - Exercise: Implemented a value of investment using a static method
+		- [Code Repo](https://bitbucket.org/itsjustnae/futurevalueapp/src/master/) - Bitbucket 
