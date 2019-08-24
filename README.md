@@ -4,4 +4,5 @@
 * FutureValueApp  - Investment Value Calculator
 	- [Compiled View]() - Exercise: Implemented a value of investment using a static method
 		- [Code Repo](https://bitbucket.org/itsjustnae/futurevalueapp/src/master/) - Bitbucket 
-* FizzBuzz - ![Fizz Buzz](fizzbuzz.gif)
+* FizzBuzz
+	- Compiled View ![Fizz Buzz](fizzbuzz.gif)
