@@ -6,4 +6,4 @@
 		- [Code Repo](https://bitbucket.org/itsjustnae/futurevalueapp/src/master/) - Bitbucket 
 * FizzBuzz - FizzBuzz Algorithm Code Test
 	 Compiled View ![Fizz Buzz](fizzbuzz.gif)
-		- [Code Repo]
+		- [Code Repo](https://bitbucket.org/itsjustnae/fizzbuzz/src/master/) - Bitbucket
